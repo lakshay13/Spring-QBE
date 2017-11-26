@@ -2,9 +2,8 @@
 
 The Spring Query By Example Project implements the QBE feature
 
-## Query by Example (QBE) is a user-friendly querying technique with a simple interface. It allows dynamic query creation
-and does not require to write queries containing field names. In fact, Query by Example does not require to write
-queries using store-specific query languages at all.
+## Query by Example (QBE)
+It is a user-friendly querying technique with a simple interface. It allows dynamic query creation and does not require to write queries containing field names. In fact, Query by Example does not require to write queries using store-specific query languages at all.
 
 ### The Query by Example API consists of three parts:
 
