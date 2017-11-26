@@ -6,7 +6,7 @@ The Spring Query By Example Project implements the QBE feature
 and does not require to write queries containing field names. In fact, Query by Example does not require to write
 queries using store-specific query languages at all.
 
-###The Query by Example API consists of three parts:
+### The Query by Example API consists of three parts:
 
 a) Probe: That is the actual example of a domain object with populated fields.
 
